@@ -1,4 +1,7 @@
 ## Hi
+Toronto, Canada
+🇨🇦/🇨🇳
+First Year Civ Eng Student
 
 <!--
 - 🔭 I’m currently working on ...
