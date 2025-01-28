@@ -1,7 +1,12 @@
-## Hi
+# Amqx
+
+First year civil engineering student
 Toronto, Canada
 🇨🇦/🇨🇳
-First Year Civ Eng Student
+
+#### Contact
+- **Email**: amqx@ry-st.org
+- **Discord**: amqx
 
 <!--
 - 🔭 I’m currently working on ...
