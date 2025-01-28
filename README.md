@@ -1,8 +1,8 @@
 # Amqx
 
-First year civil engineering student
-Toronto, Canada
-🇨🇦/🇨🇳
+First year civil engineering student  
+Toronto, Canada  
+🇨🇦/🇨🇳  
 
 #### Contact
 - **Email**: amqx@ry-st.org
