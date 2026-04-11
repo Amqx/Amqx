@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Jonathan!
 
-<!--
-**Amqx/Amqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering @ University of Toronto</br>
+Systems, embedded, high-performance C++
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### MusicPP
+Music status for Discord from Apple Music, with image fetching, LastFM, and animated images.</br>
+Tech: C++, Windows APIs, cURL, FFMPEG</br>
+https://github.com/Amqx/musicpp
+
+### Doudizhu for DE1-SoC
+Bare-metal RISC-V card game with VGA graphics, PS/2 input, and audio.</br>
+Tech: C</br>
+https://github.com/Amqx/doudizhu</br>
+
+---
+
+## Tech Stack
+
+Languages:
+ - C/C++
+ - Python
+ - Kotlin
+
+Systems:
+ - Linux
+ - WSL
+ - Embedded
+ - RISC-V
+
+Tools:
+ - CMake
+ - Ninja
+
+---
+
+## Contact
+
+Email: py.deng@mail.utoronto.ca</br>
+GitHub: https://github.com/Amqx
