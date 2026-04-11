@@ -3,7 +3,7 @@
 Computer Engineering @ University of Toronto</br>
 Systems, embedded, high-performance C++
 
-<div align="center" style="display:flex; gap:12px; align-items:center;">
+<div style="display:flex; gap:12px; align-items:center;">
   <img src="./profile/stats.svg" height="160"/>
   <img src="https://lastfm-recently-played.vercel.app/api?user=Amoxcylln&count=3" height="160"/>
 </div>
