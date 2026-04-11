@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan!
 
-Computer Engineering @ University of Toronto</br>
+Electrical/ Computer Engineering @ University of Toronto</br>
 Systems, embedded, high-performance C++
 
 <div style="display:flex; gap:12px; align-items:center;">
